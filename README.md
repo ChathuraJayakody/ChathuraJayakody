@@ -17,8 +17,6 @@ I am a dedicated and proactive individual eager to apply my skills, experience, 
 - Python
 - Java
 - JavaScript
-- React.js
-- Node.js
 - SQL / NoSQL databases
 
 ## Projects
