@@ -21,14 +21,10 @@ I am a dedicated and proactive individual eager to apply my skills, experience, 
 
 ## Projects
 
-- **[Project Name]:** Brief description of the project and your contributions.
-- **[Project Name]:** Brief description of the project and your contributions.
-- **[Project Name]:** Brief description of the project and your contributions.
+
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile])
-- Twitter: [Your Twitter Profile]()
-- Email: 
+- Email: chathurajy96@gmail.com
 
 ### Let's Build Innovative Solutions Together! 🚀🔧
