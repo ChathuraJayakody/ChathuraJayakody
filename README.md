@@ -17,7 +17,7 @@ From crafting modern UI with Flutter widgets to integrating Firebase, Node.js, a
 - **Languages:** Dart, JavaScript, Python, Java, SQL  
 - **Frameworks:** Flutter, Node.js with Express  
 - **Databases:** Firebase, MySQL, PostgreSQL  
-- **UI/UX Tools:** Figma, Adobe XD  
+- **UI/UX Tools:** Figma, Canva
 - **Version Control:** Git & GitHub  
 - **Concepts:** State Management (Provider), Responsive Design, RESTful APIs, Authentication, Role-Based Access
 
