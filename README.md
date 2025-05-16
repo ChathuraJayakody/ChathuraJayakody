@@ -1,30 +1,48 @@
-# Hello, I'm Chathura 👋
+# 👋 Hello, I'm Chathura Jayakody
 
-### About Me
-I am a dedicated and proactive individual eager to apply my skills, experience, and technical background to contribute effectively as part of a collaborative team. With a strong foundation in software development, I excel in problem-solving and enjoy tackling complex challenges. My areas of expertise include software engineering, application development, agile methodologies, and continuous integration.
+### 💡 Flutter Developer | Frontend Enthusiast | UI-Focused Problem Solver
 
-## Skills
+---
 
-- **Programming:** Proficient in languages such as Python, Java, C/C++, and skilled in leveraging scripting languages for automation and tool development.
-- **Software Development:** Experienced in full-stack development, from front-end UI/UX design to back-end database management.
-- **Agile Methodologies:** Practiced in agile principles for iterative development and rapid deployment of software solutions.
-- **Version Control:** Proficient in Git for version control and collaborative software development.
-- **Problem-Solving:** Strong analytical skills with a knack for debugging and optimizing code for efficiency.
+### 🧩 About Me
 
-## Technologies
+I'm a creative and technically inclined Flutter developer with a strong focus on building responsive, user-centric mobile applications. I enjoy transforming real-world problems into smooth, intuitive app experiences. With hands-on experience in both frontend and backend integration, I design applications that not only look great — but also *work smart*.
 
-🛠️ Some of the technologies I work with include:
-- Python
-- Java
-- JavaScript
-- SQL / NoSQL databases
+From crafting modern UI with Flutter widgets to integrating Firebase, Node.js, and local databases, I enjoy full-cycle development. I thrive on rapid prototyping, clean architecture, and continuously learning to build better products that matter.
 
-## Projects
+---
 
+### 🔧 Skills & Technologies
 
+- **Languages:** Dart, JavaScript, Python, Java, SQL  
+- **Frameworks:** Flutter, Node.js with Express  
+- **Databases:** Firebase, MySQL, PostgreSQL  
+- **UI/UX Tools:** Figma, Adobe XD  
+- **Version Control:** Git & GitHub  
+- **Concepts:** State Management (Provider), Responsive Design, RESTful APIs, Authentication, Role-Based Access
 
-## Get in Touch
+---
 
-- Email: chathurajy96@gmail.com
+### 🚀 Projects I'm Proud Of
 
-### Let's Build Innovative Solutions Together! 🚀🔧
+- 🎗️ [Organ Donation App](https://github.com/ChathuraJayakody/Sathkara-the_organ_donation_app) — Streamlined real-time donor-patient matching using Flutter & Firebase  
+- 📚 [EduMate](https://github.com/ChathuraJayakody/edu_mate) — Tuition class app with scheduling, attendance & student tracking  
+- 🏨 [Sha Luxury Hotel Website](https://github.com/ChathuraJayakody/hotel_website) — A full-stack hotel booking platform using HTML, CSS, JS, PHP & MySQL  
+- 🏠 Stay Homies — Boarding house finder with Google Maps API and location-based listings (Ongoing)  
+- 👥 HRM System — Role-based access control for employees, managers & admins with responsive web design
+
+---
+
+### 📬 Let's Connect
+
+- **Email:** chathurajy96@gmail.com  
+- **LinkedIn:** [Chathura Jayakody](https://www.linkedin.com/in/chathura-jayakody-848860312/)  
+- **GitHub:** You're already here 🚀  
+
+---
+
+### 🧠 Philosophy
+
+> Build with empathy. Design for users. Iterate with purpose.
+
+Let’s create apps that not only work — but *feel right*. 💙
